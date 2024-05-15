@@ -1,0 +1,16 @@
+{
+  "name": "club-deportivo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Natalia García",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
